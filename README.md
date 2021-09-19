@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+lol hi if i know you irl
+
+
 <!--
 **FinleyCodes/FinleyCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
