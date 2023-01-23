@@ -1,14 +1,14 @@
-<h3 align="center">A teenager from Britain who likes Computer Science 🤷‍♀️</h3>
+<h3 align="center">A teen from Britain who likes Computer Science 🤷‍♂️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=finleycodes&label=Profile%20views&color=0e75b6&style=flat" alt="finleycodes" /> </p>
 
 - 🔭 I’m currently working on [Ice Cream](https://www.icstudios.dev/)
 
-- 🌱 I’m currently learning **React and Next.JS**
+- 🌱 I’m currently learning **CSS and Svelte**
 
 - 👯 I’m looking to collaborate on **anything - I'm open to ideas!**
 
-- 👨‍💻 My website is [finley.codes/](https://www.finley.codes/)
+- 👨‍💻 My website is [finley.codes](https://www.finley.codes/)
 
 - 📝 I plan regularly write articles on [my blog - coming soon to my main website](https://www.finley.codes/blog)
 
